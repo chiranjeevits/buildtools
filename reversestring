@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+int reversestring()
 {
    char s[1000], r[1000];
    int begin, end, count = 0;
